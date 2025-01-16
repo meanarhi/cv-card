@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why some animals appear to mourn their dead</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    <div class="container">
+
+    <header>
+        <h1>Why some animals appear to mourn their dead</h1>
+    </header>
+
+<p class="author">Jasmin Fox-Skelly</p>
+<p class="date">11.1.2024</p>
+
+<article>
+    <img src="images/animal.png">
+    <p><b>Grief has long thought to be a human trait, but other animals – from killer whales to crows – also appear to suffer loss when a companion dies</b></p>
+    <p>Last week, a female killer whale was <a href="https://www.bbc.com/news/articles/c8j9dlryxlmo">spotted</a> off the coast of Washington State pushing the body of her dead newborn calf. The orca, known as Tahlequah, was observed doing the same thing in 2018 after another of her calves died in infancy. On that occasion, Tahlequah pushed the body of her offspring for 17 days, continually retrieving it and preventing it from sinking – an incredible feat given the fact that killer whales can travel an average of 120km (75 miles) a day. </p>
+    <p>Whales are not the only species known to carry the bodies of their deceased young. In 2021, Edinburgh Zoo reported that one of their chimpanzees, Lianne, had given birth to a stillborn baby and was refusing to let go, carrying the infant around with her within the zoo enclosure. Other highly intelligent mammals, such as dolphins and monkeys, have also been observed behaving this way.</p>
+    
+    <blockquote>
+        "It's hard to see this behaviour without thinking of it through the lens of grief, partly because, as humans, if we lose someone we want to cling on to that person in some sense"
+    </blockquote>
+    <p>-  says Becky Millar, a researcher specialising in the philosophy of cognitive sciences at Cardiff University.</p>
+    <blockquote>
+        "It seems to be a very literal manifestation of that kind of urge to retain bonds with the dead loved one."
+    </blockquote>
+</article>
+
+<footer>
+    &copy; BBC
+</footer>
+</div>
+</body>
+</html>
